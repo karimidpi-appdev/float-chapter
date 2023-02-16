@@ -5,4 +5,9 @@
 # 
 # 5.3
 
+a = 2.8
+b = 4.5
 
+Pythagorean = (a ** 2 + b ** 2) ** 0.5
+
+p Pythagorean
